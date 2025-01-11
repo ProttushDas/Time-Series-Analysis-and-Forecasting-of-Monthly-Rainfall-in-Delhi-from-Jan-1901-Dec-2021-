@@ -1,1 +1,1 @@
-# Time-Series-Analysis-and-Forecasting-of-Monthly-Rainfall-in-Delhi-from-Jan-1901-Dec-2021-
+This project focuses on forecasting monthly rainfall in Delhi using time series models, specifically SARIMA (Seasonal AutoRegressive Integrated Moving Average) and Holt-Winters Exponential Smoothing. The project includes residual analysis and forecast visualization, particularly highlighting the last 10 years of rainfall data.
